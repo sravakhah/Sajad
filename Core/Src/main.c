@@ -48,6 +48,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
+#define Commit4			4
 #define Commit3			3
 #define Commit2			2
 #define MaxLine         3700
