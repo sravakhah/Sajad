@@ -48,6 +48,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
+#define Commit2			2
 #define MaxLine         3700
 #define MaxMagnet       28
 //#define MaxColorWeaving 4
